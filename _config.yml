@@ -1,3 +1,4 @@
 	name: Matthew Li, Student
 	markdown: kramdown
-permalink: /blog/:09/:20/:matthew-li-site-launched
+permalink: /blog/:year/:month/:day/:title
+
