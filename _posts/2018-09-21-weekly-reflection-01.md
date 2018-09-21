@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Matthew Li, Student, Weekly Reflection #1(9/21/18)"
-date: 2014-04-30
+date: 2018-09-21
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+I like what is happening right now, but I think that some of the things are confusing. Sometimes I have to aks my partner how to do something. But for other things I understand a bit. Even for the things that I understand I get them wrong. When I finish that step and fo check the website it says that there is an error.
