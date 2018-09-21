@@ -1,4 +1,4 @@
-	name: Matthew Li, Student
-	markdown: kramdown
+name: Matthew Li, Student
+markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
