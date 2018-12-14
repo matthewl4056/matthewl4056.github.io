@@ -4,7 +4,8 @@ title: flag project v2
 date: 2018-12-14
 ---
 This week, we worked on coding our flags. It wasn't that hard but there was some parts that was hard. For example, when it came to coding the crecent that was in my flag. But some things that wasn't that hard was when it came to making the base of my flag and the big white strip on my flag. I am doing the Pakistan flag so there was a big white strip to the left of the flag. After making the base and white strip it then came to making the crecent and the star. The star wasn't that hard but the crecent was hard. I had to make 2 circles, which wasn't that hard, but the hard part was when it came to overlaying the two circles so it would look like a crecent. So I was just messing around with the overlaying and it took a while but I eventually got it to look almost or if not just like the Pakistan flag.
-```;dimension of the flag 3:2
+```
+;dimension of the flag 3:2
 ;colors of the flag white and forestgreen
 ;define
 (define height 300)
