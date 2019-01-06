@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Matthew Li, Student, Weekly Reflection #15(01/05/19)"
+date: 2019-01-05
+---
+This week in computer science we did some things on functions. Our teacher gave out this sheet of paper that we had to work on. We had to put in the function name and what it produces. Like a red sqaure and some rocket blasting off. We had to name everything in the function including the name and what it produces. So the name could be a red-sqaure and the strings could be length-width, and the last one would be the image. That is what we did for the three days that we had with out teacher. Some challenges that I had was going back to school and going right back into the coding stuff. I was no ready at all and I was confused in the beginning. Thursday, I understood most of the things that I didn't understand on Tuesday. On Friday I got the hang of the stuff that we were doing. Some things that I learned from this week is that we should name the strings so we know what it is suppose to do and not get confused about what the numbers are for. Also to name the last part of the function what we are expecting the computer to give us. If we are looking for an image we should name it an image. But if it is somethings else you name if that something else.
